@@ -9,3 +9,7 @@ Meu nome é Manoel Rodrigues
 ### Você entrar em contato comigo 📭
 
 0000112195859xsp@al.educacao.sp.gov.br
+@manoel_rdrgs_
+
+
+![](https://media1.tenor.com/m/i3qYNLr4NmcAAAAd/fusionanimations-godspeed.gif)
