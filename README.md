@@ -2,7 +2,7 @@
 
 Meu nome é Manoel Rodrigues 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,5 @@ Meu nome é Manoel Rodrigues
 @manoel_rdrgs_
 
 
-![](https://media1.tenor.com/m/i3qYNLr4NmcAAAAd/fusionanimations-godspeed.gif)
+![](https://media1.tenor.com/m/ckJIkgir5TUAAAAC/capitao-zoom-jogue-ele-na-minha.gif)
+
